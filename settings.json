@@ -1,0 +1,11 @@
+{
+    "class_name": "B.Tech CSE (Data Science) - Sem III",
+    "subjects": {
+        "Maths": 4,
+        "Python": 4,
+        "Physics": 3,
+        "English": 2,
+        "Electronics": 3
+    },
+    "pass_mark": 40
+}
